@@ -1,0 +1,6 @@
+@ReChat_HostAddress = http://localhost:5127
+
+GET {{ReChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
